@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am phungkhanh90 on github.
+  * I am khanhtroc (https://keybase.io/khanhtroc) on keybase.
+  * I have a public key ASDAv80BDXNwKUOQnByajoUG4bayHPICpbxWbu3kt9KBgQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c0bfcd010d73702943909c1c9a8e8506e1b6b21cf202a5bc566eede4b7d281810a",
+      "host": "keybase.io",
+      "kid": "0120c0bfcd010d73702943909c1c9a8e8506e1b6b21cf202a5bc566eede4b7d281810a",
+      "uid": "79c2b7b61a063b7f32e8c518f837a119",
+      "username": "khanhtroc"
+    },
+    "merkle_root": {
+      "ctime": 1568133135,
+      "hash": "efa66cd3bc910f661636854b34e62750f6061d2dea43a7a1d652142f1caf73fe7885ea02630632e3fef348076daf9288ed204293091a808f9049b2308dabd6ef",
+      "hash_meta": "00922322c044f6c3c9181db450856f92b81566b8bd44c382ec6de663a0eb9a58",
+      "seqno": 6460842
+    },
+    "service": {
+      "entropy": "K7aHHCXCwDnblPIPUmpZ6qmt",
+      "name": "github",
+      "username": "phungkhanh90"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568133142,
+  "expire_in": 504576000,
+  "prev": "b8351a642bf18c965d2853ee0f882f61b15b9a4da4bb72321430eb59c365e8a0",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASDAv80BDXNwKUOQnByajoUG4bayHPICpbxWbu3kt9KBgQo](https://keybase.io/khanhtroc), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwL/NAQ1zcClDkJwcmo6FBuG2shzyAqW8Vm7t5LfSgYEKp3BheWxvYWTESpcCBcQguDUaZCvxjJZdKFPuD4gvYbFbmk2ku3IyFDDrWcNl6KDEIPfRd2IO5b86UaFnNjZxZwKgAP4obJvsXtNeCsknP8e+AgHCo3NpZ8RA6tMQR0dN8pGJ5IZ77mpfCmWgWX3Os++A4lQ6eTQe9f/HgTvtQkMBt8yyE/7y/TJ7TaD19Y3Mo5WWyVM8n32kAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDFQa24y/2jDdN9srzh/G/MyD5JQLLTh2fY4FeiPCgZco3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/khanhtroc
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id khanhtroc
+```

